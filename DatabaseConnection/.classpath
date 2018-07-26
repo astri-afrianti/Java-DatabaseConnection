@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/CDC/Java Bootcamp/Project/Java-DatabaseConnection/Resources/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/CDC/Java Bootcamp/Project/Java-DatabaseConnection/Resources/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/CDC/Java Bootcamp/Project/Java-DatabaseConnection/Resources/hsqldb-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/CDC/Java Bootcamp/Project/Java-DatabaseConnection/Resources/jackcess-2.1.6.jar"/>
+	<classpathentry kind="lib" path="E:/CDC/Java Bootcamp/Project/Java-DatabaseConnection/Resources/ucanaccess-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/CDC/Java Bootcamp/Project/Java-DatabaseConnection/Resources/sqlite-jdbc-3.23.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
